@@ -3,3 +3,6 @@
 
 # data dump
 /data
+
+# Jupyter Notebook checkpoints directory
+/.ipynb_checkpoints
