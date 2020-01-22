@@ -9,3 +9,6 @@
 
 # pycache directory
 /__pycache__
+
+# results and outputs
+/output
