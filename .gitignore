@@ -2,10 +2,10 @@
 /venv
 
 # data dump
-/data
+**/data
 
 # Jupyter Notebook checkpoints directory
-/.ipynb_checkpoints
+**/.ipynb_checkpoints
 
 # pycache directory
 /__pycache__
