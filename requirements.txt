@@ -32,6 +32,7 @@ pickleshare==0.7.5
 prometheus-client==0.7.1
 prompt-toolkit==3.0.2
 ptyprocess==0.6.0
+pydot==1.4.1
 Pygments==2.5.2
 pyparsing==2.4.6
 pyrsistent==0.15.6
@@ -43,6 +44,7 @@ scikit-learn==0.22.1
 scipy==1.4.1
 Send2Trash==1.5.0
 six==1.13.0
+tabulate==0.8.6
 terminado==0.8.3
 testpath==0.4.4
 tornado==6.0.3
