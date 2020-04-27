@@ -10,3 +10,9 @@ def emex(text):
     # flags
     emojis.extend(regex.findall(u"\uD83C[\uDDE6-\uDDFF]", text))
     return emojis
+
+def demex(text):
+    emojis = list(set(emex(text)))
+    for emoji in emojis:
+        text = text.replace(emoji, '')
+    return text
